@@ -25,7 +25,7 @@ const showBooks = async () => {
         </div>
         `;
 
-      // booksArray.map((singleBook) => {
+      // booksData.map((singleBook) => {
       // return `
       // <div id="${singleBook.asin}" class="d-flex col-3 mb-3">
       //       <div class="card w-100">
